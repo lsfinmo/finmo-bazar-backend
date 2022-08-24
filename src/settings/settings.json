@@ -14,13 +14,13 @@
     },
     "logo": {
       "id": "862",
-      "original": "https://finmo-assets.s3.ap-southeast-2.amazonaws.com/logo/finmo/FinMart.png",
-      "thumbnail": "https://finmo-assets.s3.ap-southeast-2.amazonaws.com/logo/finmo/FinMart.png"
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/860/PickBazar.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/860/conversions/PickBazar-thumbnail.jpg"
     },
     "useOtp": false,
     "currency": "USD",
     "taxClass": 1,
-    "siteTitle": "FinMart",
+    "siteTitle": "Pickbazar",
     "deliveryTime": [
       {
         "title": "Express Delivery",
